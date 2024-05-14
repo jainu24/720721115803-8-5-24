@@ -17,5 +17,5 @@ def countWays(s):
 s = 4
 
 print "Number of ways = ",
-
+ 
 print countWays(s)
